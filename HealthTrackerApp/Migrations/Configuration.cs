@@ -1,4 +1,4 @@
-﻿namespace ExpenseTrackerApp.Migrations
+﻿namespace HealthTrackerApp.Migrations
 {
     using System;
     using System.Data.Entity;
